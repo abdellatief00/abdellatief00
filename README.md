@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me 
 - Facebook : https://www.facebook.com/abdo951753
-- gmail : abdellatiefhamed00@gmail.com
+- Gmail : abdellatiefhamed00@gmail.com
