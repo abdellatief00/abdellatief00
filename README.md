@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdellatief00
-- 👀 I’m interested in Frontend devlopment
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning power bi
 - 📫 How to reach me 
 - Facebook : https://www.facebook.com/abdo951753
 - Gmail : abdellatiefhamed00@gmail.com
